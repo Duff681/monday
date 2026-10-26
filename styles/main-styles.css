@@ -5,6 +5,8 @@ h1{
 
 body {
     background-color: beige;
+    border: 10px solid lightpink;
+    border-radius: 20px;
 }
 
 footer{
